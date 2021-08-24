@@ -28,7 +28,7 @@ Don't worry about the error . It will be resolved after completing the further s
 
 <h2>Step 4</h2>
 
-Replace `discord = "^1,7,3"` with `discord = {git = "https://github.com/Rapptz/discord.py"}`
+Now open `pyproject.toml` file and replace `discord = "^1,7,3"` with `discord = {git = "https://github.com/Rapptz/discord.py"}`
 
 <img alt="Step 4" src="images/step4.gif" />
 
