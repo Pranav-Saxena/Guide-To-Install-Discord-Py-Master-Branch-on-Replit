@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "repl_python3_DiscordPy-Master-Branch-Guide"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+discord = {git = "https://github.com/Rapptz/discord.py"}
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
