@@ -11,6 +11,11 @@ Create an empty repl on replit
 
 Add this Basic Code to the file main.py so as to check if discord.py master branch is installed or not
 
+```
+import discord
+
+button = discord.ui.Button
+```
 <img alt="Step 2" src="images/step2.jpg" />
 
 <h2>Step 3</h2>
@@ -30,6 +35,9 @@ Replace `discord = "^1,7,3"` with `discord = {git = "https://github.com/Rapptz/d
 <h2>Step 5</h2>
 
 Open Shell and install discord.py master branch through pip
+```
+pip install git+https://github.com/Rapptz/discord.py
+```
 
 <img alt="Step 5" src="images/step5.gif" />
 
