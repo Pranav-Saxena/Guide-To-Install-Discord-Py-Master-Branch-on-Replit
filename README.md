@@ -50,3 +50,5 @@ Run the main.py to check if master branch has been installed!
 Boom! The code ran without any errors, that means discord.py master branch has been installed successfully!!
 
 Now you can create bots on replit based on discord.py 2.0 !!
+
+**Make Sure to Star the Repo if you liked it!!**
